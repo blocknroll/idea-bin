@@ -1,0 +1,9 @@
+///////////////////////////////////////////////
+?'s
+
+how to run idea_spec.js in the command line?
+
+
+ it should work test
+    function(done)
+    needed to remove 'done'????
